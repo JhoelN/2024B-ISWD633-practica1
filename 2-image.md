@@ -27,9 +27,11 @@ Descargar la imagen **hello-world**
 # COMPLETAR
 
 **¿Qué es nginx**
-# COMPLETAR 
 Nginx, pronunciado como “engine-ex”, es un servidor web de código abierto que, desde su éxito inicial como servidor web, ahora también es usado como proxy inverso, cache de HTTP, y balanceador de carga.
+
+
 [3]“¿Qué Es Nginx y Cómo Funciona?” Kinsta®. [En línea]. 
+# COMPLETAR 
 
 Descargar la imagen  **nginx** en la versión **alpine**
 # COMPLETAR
