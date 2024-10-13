@@ -46,6 +46,9 @@ Nginx, pronunciado como “engine-ex”, es un servidor web de código abierto q
 # COMPLETAR 
 
 Descargar la imagen  **nginx** en la versión **alpine**
+
+![Imagen y contenedores](img/Descargarimagenalpine.png)
+
 # COMPLETAR
 
 ### Listar imágenes
@@ -55,6 +58,9 @@ docker images
 ```
 
 # COLOCAR UNA CAPTURA DE PANTALLA DEL RESULTADO 
+
+![Imagen y contenedores](img/Listarimagenes.png)
+
 
 **Identificadores**
 
@@ -71,7 +77,12 @@ docker inspect <nombre imagen>:<tag>
 Inspeccionar la imagen hello-world 
 # COMPLETAR
 
+![Imagen y contenedores](img/Inspeccionarhelloworld.png)
+
 **¿Con qué algoritmo se está generando el ID de la imagen**
+
+Docker está utilizando el algoritmo de hash SHA-256 para identificar de manera única la imagen y sus capas.
+
 # COMPLETAR
 
 ### Filtrar imágenes
@@ -89,6 +100,9 @@ docker rmi <nombre imagen>:<tag>
 ```
 
 Eliminar la imagen hello-world 
+
+![Imagen y contenedores](img/Eliminarpermanentementelaimagenhelloworld.png)
+
 # COMPLETAR
 
 -f: Es la opción para forzar la eliminación de la imagen incluso si hay contenedores en ejecución que utilizan esa imagen.
