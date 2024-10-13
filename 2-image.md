@@ -4,6 +4,14 @@ Es un archivo único que contiene todos los programas, librerías, dependencias 
 
 
 ## ¿Cuál es la relación entre una imagen y un contenedor? 
+
+Imagen
+Una imagen es una plantilla de solo lectura que contiene todo lo necesario para ejecutar una aplicación: código, dependencias, bibliotecas, configuraciones, etc.
+
+Contenedor
+Un contenedor es una instancia en ejecución de una imagen. Cuando ejecutas una imagen, Docker crea un contenedor a partir de esa imagen, lo cual incluye copiar el sistema de archivos de la imagen y crear un entorno aislado donde se ejecuta.
+
+
 # COMPLETAR 
 
 ![Imagen y contenedores](img/imagenContenedores.JPG)
