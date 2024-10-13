@@ -75,10 +75,11 @@ docker inspect <nombre imagen>:<tag>
 ```
 
 Inspeccionar la imagen hello-world 
-# COMPLETAR
 
 ![Imagen y contenedores](img/Inspeccionarhelloworld.png)
 
+
+# COMPLETAR
 **¿Con qué algoritmo se está generando el ID de la imagen**
 
 Docker está utilizando el algoritmo de hash SHA-256 para identificar de manera única la imagen y sus capas.
