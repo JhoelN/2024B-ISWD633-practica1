@@ -33,8 +33,7 @@ docker pull <nombre imagen>:<tag>
 
 Descargar la imagen **hello-world**
 
-![Imagen y contenedores](img/Descargar imagen hello-world.png).
-
+![Imagen y contenedores](img/Descargarimagenhello-world.png)
 
 # COMPLETAR
 
