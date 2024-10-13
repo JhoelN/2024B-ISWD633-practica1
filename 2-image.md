@@ -47,7 +47,7 @@ Nginx, pronunciado como “engine-ex”, es un servidor web de código abierto q
 
 Descargar la imagen  **nginx** en la versión **alpine**
 
-![Imagen y contenedores](img/Descargarimagenalpine.png)
+![Imagen y contenedores](img/Descagarlaimagenalpine.png)
 
 # COMPLETAR
 
