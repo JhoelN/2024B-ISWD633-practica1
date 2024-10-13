@@ -36,7 +36,7 @@ docker start <nombre contenedor o identificador>
 Iniciar el contenedor srv-web 
 
 
-![Ecosistema de Docker](img/Iniciarcontenedor.png.)
+![Ecosistema de Docker](img/Iniciarcontenedor.png)
 
 
 # COMPLETAR
