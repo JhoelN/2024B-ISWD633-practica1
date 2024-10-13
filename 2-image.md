@@ -92,6 +92,8 @@ Docker está utilizando el algoritmo de hash SHA-256 para identificar de manera 
 docker images | grep <termino a buscar>
 
 ```
+![Imagen y contenedores](img/Filtrarimagenes2.png)
+![Imagen y contenedores](img/Filtrarimagenes1.png)
 
 ### Para eliminar una imagen
 Eliminar permanentemente la imagen de tu sistema Docker.
