@@ -71,6 +71,7 @@ Crear y ejecutar inmediatamente el contenedor **srv-web2** usando la imagen ngin
 
 
 **¿Qué sucede luego de la ejecución del comando?**
+
 Se queda "bloqueado" la terminal y no se puede poner más comandos 
 
 
@@ -117,11 +118,11 @@ Eliminar el contenedor **srv-web3**
 
 Verificar que el contenedor que se eliminó
 # COMPLETAR
+
 ![Ecosistema de Docker](img/verificar.png)
 
 
 ### Para inspecionar un contenedor 
-
 Inspeccionar el contenedor **srv-web** 
 # COMPLETAR
 ![Ecosistema de Docker](img/Inspeccionarelcontenedorsvr-web1.png)
